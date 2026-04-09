@@ -1,0 +1,11 @@
+{
+  "name": "sdk-copilot-plugin",
+  "description": "Azure SDK MCP tools for SDK generation, build, test, release planning, and pipeline management",
+  "version": "1.0.0",
+  "keywords": ["azure", "sdk", "mcp", "azure-sdk"],
+  "author": { "name": "Azure SDK Team" },
+  "repository": "https://github.com/pvaneck/azure-sdk-tools",
+  "license": "MIT",
+  "mcpServers": "tools/azsdk-cli/Azure.Sdk.Tools.Cli/.mcp.json",
+  "skills": [".github/skills/"]
+}

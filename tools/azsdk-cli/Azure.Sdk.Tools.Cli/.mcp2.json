@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "azure-sdk-mcp-plugin2": {
+        "type": "stdio",
+        "command": "pwsh",
+        "args": ["${CLAUDE_PLUGIN_ROOT}/azure-sdk-mcp.ps1", "-Run"]
+    }
+  }
+}
